@@ -1,0 +1,5 @@
+*.png
+**/.cache
+.vscode/
+SPARQL/fuel_poverty_visualisation.ipynb
+.DS_Store
