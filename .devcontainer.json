@@ -1,0 +1,7 @@
+{
+    "image": "canwaf/lachesis:latest",
+    "extensions": ["github.vscode-pull-request-github",
+                   "ms-toolsai.jupyter",
+                   "ms-python.vscode-pylance",
+                   "ms-python.python"]
+}
